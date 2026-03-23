@@ -1,0 +1,11 @@
+{
+  "Name": "清风书案",
+  "Author": "YourName",
+  "Version": "1.0.0",
+  "Description": "游戏内写作书案MOD",
+  "UniqueID": "YourName.QingfengShuAn",
+  "EntryDll": "QingfengShuAn.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
+
